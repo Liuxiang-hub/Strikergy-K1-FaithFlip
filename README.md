@@ -23,7 +23,7 @@ The K1 stands still, flips backwards through 360°, lands, stands back up and ke
 
 <table><tr>
 <td align="center"><b>1</b><br><sub>person</sub></td>
-<td align="center"><b>1</b><br><sub>week</sub></td>
+<td align="center"><b>7</b><br><sub>hours</sub></td>
 <td align="center"><b>1</b><br><sub>AI</sub></td>
 <td align="center"><b>2</b><br><sub>landings, both on the real robot</sub></td>
 </tr></table>
@@ -196,7 +196,7 @@ More K1 skills from the same pipeline, **to be open-sourced next**:
 
 **Strikergy** (*Striker × Strategy*) is a robotics team founded in **October 2026**, with **three core members**, from **Huazhong University of Science and Technology (HUST), China**.
 
-FaithFlip was trained by **one person, in one week, with one AI**.
+FaithFlip was made by **one person, in 7 hours, with one AI**.
 
 We train humanoid soccer skills for the Booster K1 (running, kicking, getting up and, yes, backflips) and bring every one of them to the real robot.
 
