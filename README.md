@@ -38,13 +38,11 @@ The K1 stands still, flips backwards through 360°, lands, stands back up and ke
 <tr>
 <td align="center" width="50%">
 <img src="assets/faithflip_real_vs_sim.gif" width="100%" alt="Hero: real robot vs. simulation"><br>
-<b>Hero landing: real robot (left) vs. simulation (right)</b><br>
-<sub>Same phone-camera viewpoint · <a href="assets/faithflip_real_vs_sim.mp4">mp4</a></sub>
+<b>Hero landing</b> · <sub><a href="assets/faithflip_real_vs_sim.mp4">mp4</a></sub>
 </td>
 <td align="center" width="50%">
 <img src="assets/standard_real_vs_sim.gif" width="100%" alt="Standard: real robot vs. simulation"><br>
-<b>Standard landing: real robot (left) vs. simulation (right)</b><br>
-<sub>Same phone-camera viewpoint · <a href="assets/standard_real_vs_sim.mp4">mp4</a></sub>
+<b>Standard landing</b> · <sub><a href="assets/standard_real_vs_sim.mp4">mp4</a></sub>
 </td>
 </tr>
 </table>
