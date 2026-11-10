@@ -21,13 +21,6 @@
 
 The K1 stands still, flips backwards through 360°, lands, stands back up and keeps going.
 
-<table><tr>
-<td align="center"><b>1</b><br><sub>person</sub></td>
-<td align="center"><b>7</b><br><sub>hours</sub></td>
-<td align="center"><b>1</b><br><sub>AI</sub></td>
-<td align="center"><b>2</b><br><sub>landings, both on the real robot</sub></td>
-</tr></table>
-
 <img src="assets/brand/divider.png" width="100%" alt="">
 
 </div>
